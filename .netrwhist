@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/mnt/data/projets-eclipse/ville-dole'
+let g:netrw_dirhist_2='/mnt/data/conf'
+let g:netrw_dirhist_3='/mnt/data/apps'
+let g:netrw_dirhist_4='/mnt/data/projets-eclipse/bm-orleans/.svn'
+let g:netrw_dirhist_5='/etc/NetworkManager/system-connections'
+let g:netrw_dirhist_6='/mnt/data/conf/project-path'
+let g:netrw_dirhist_7='/mnt/data/apps/shell-scripts'
+let g:netrw_dirhist_8='/home/elopez/.mozilla/firefox/s83iz46q.work/extensions'
